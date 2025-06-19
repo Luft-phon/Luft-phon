@@ -16,6 +16,14 @@
 </div>
 
 <br>
+<summary><h2>💡 My Quote</h2></summary>
+<div display="flex">
+<img align="left" width="auto" height="100" src="https://github.com/Luft-phon/Luft-phon/blob/main/photo/simpson.png">
+<p>Hi there!</p>
+Dropping into the programming world like a character in an open-world bug simulator, I’m <b>Thanh Phong</b> — a dev learner by day, syntax survivor by night.</div>
+</details>
+<br>
+<br>
 
 ```csharp
 class ThanhPhong
@@ -28,46 +36,49 @@ class ThanhPhong
     List<string> Languages = new List<string> { "C#", "Java", "JavaScript", "TypeScript", ... };
 }
 ```
-<details open>
   <summary><h2>#️⃣ Github Contributions</h2></summary>
     <a href="https://github.com/Luft-phon?tab=repositories">
       <img src="https://raw.githubusercontent.com/Luft-phon/Luft-phon/output/github-contribution-grid-snake-dark.svg" alt="Snake Gif">
     </a>
-
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+   <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
   <!-- opslink -->
-    <a href="https://github.com/ngbao245/pizza-service-capstone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=pizza-service-capstone&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
-  <!-- koi-farm-frontend -->
-      <a href="https://github.com/ngbao245/koi-farm-frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=koi-farm-frontend&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
-  <!-- koi-farm-backend -->
-      <a href="https://github.com/ngbao245/koi-farm-backend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=koi-farm-backend&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
-    <!-- bird-store-android -->
-      <a href="https://github.com/ngbao245/bird-store-android"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=bird-store-android&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
-  <!-- dotnetCore -->
-      <a href="https://github.com/ngbao245/dot-net-core-web-api"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=dot-net-core-web-api&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
-  <!-- TaskManagement -->
-      <a href="https://github.com/ngbao245/task-management-application"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=task-management-application&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
-  <!-- StudentManagement -->
-      <a href="https://github.com/ngbao245/student-management-console"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=student-management-console&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
-  <!-- LeetCode -->
-      <a href="https://github.com/ngbao245/leetcode"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=leetcode&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
-  <!-- Loop -->
-      <a href="https://github.com/ngbao245/loop-horror-game"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=loop-horror-game&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
-      <!-- prm392 -->
-      <a href="https://github.com/ngbao245/prm392"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=prm392&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
-    <!-- prn231 -->
-      <a href="https://github.com/ngbao245/prn231"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=prn231&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
-    <!-- Photo_Booth_AI_Detect -->
-      <a href="https://github.com/ngbao245/photo-booth-ai-detect"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ngbao245&repo=photo-booth-ai-detect&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
-
+    <a href=""><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Luft-phon&repo=Photobooth-Application&theme=material-palenight&bg_color=1F222E&title_color=AE82CE&hide_border=true&show_description=false&show_icons=false"/></a>
 
 </div>
-   
 <br>
   <p align="center">
-    <a href="https://github.com/ngbao245?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+    <a href="https://github.com/Luft-phon?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </p>
+
+
+<details open>
+    <summary><h2>📶 GitHub Stats</h2></summary>
+     <a href="https://github.com/Luft-phon?tab=repositories"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Luft-phon&show_icons=true&theme=material-palenight&layout=compact"></a>
+      <a href="https://github.com/Luft-phon?tab=repositories"> <img height="180" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luft-phon&theme=material-palenight&layout=compact&langs_count=5"></a>
+
+---
+---
+---
+---
+---
+---
+---
 </details>
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
