@@ -18,7 +18,7 @@
 <br>
 <summary><h2>💡 My Quote</h2></summary>
 <div display="flex">
-<img align="left" width="auto" height="100" src="https://github.com/Luft-phon/Luft-phon/blob/main/photo/simpson.png">
+<img align="left" width="100" height="100" src="https://github.com/Luft-phon/Luft-phon/blob/main/photo/simpson.png">
 <p>Hi there!</p>
 Dropping into the programming world like a character in an open-world bug simulator, I’m <b>Thanh Phong</b> — a dev learner by day, syntax survivor by night.</div>
 </details>
