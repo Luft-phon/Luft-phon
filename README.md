@@ -1,4 +1,6 @@
-
+<p>
+     <a href="https://github.com/Luft-phon?tab=repositories"><img src="https://komarev.com/ghpvc/?username=Luft-phon&style=for-the-badge&base=1000&color=AE82CE"></a>
+</p>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Caprasimo&size=40&color=AE82CE&center=true&vCenter=true&width=500&height=70&duration=3000&lines=I'm+not+a+bug;+I'm+Luftphon!;" />
 </p>
