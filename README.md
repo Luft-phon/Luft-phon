@@ -13,6 +13,9 @@
     <a href="https://www.instagram.com/luftphon_/">
 <img src="https://img.shields.io/badge/Instagram-%23833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
    </a>
+     <a href="https://luftphons-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-%23007ACC?style=for-the-badge&logo=notion&logoColor=white" />
+   </a>
 </div>
 
 <br>
