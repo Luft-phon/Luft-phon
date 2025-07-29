@@ -33,7 +33,7 @@ class ThanhPhong
 {
     string name = "Luftphon";
     string School = "Cal State Long Beach University";
-    String Level = "Intern"
+    String Level = "Entry Level"
     string Pronouns = "he/him";
     List<string> Hobbies = new List<string> { "soccer", "programming", "music", "travel" };
     List<string> Languages = new List<string> { "C#", "Java", "JavaScript", "TypeScript", ... };
