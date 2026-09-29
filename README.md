@@ -58,7 +58,7 @@ class ThanhPhong
   </p>
 
 
-<details open>
+<!-- <details open>
     <summary><h2>📶 GitHub Stats</h2></summary>
      <a href="https://github.com/Luft-phon?tab=repositories"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Luft-phon&show_icons=true&theme=material-palenight&layout=compact"></a>
       <a href="https://github.com/Luft-phon?tab=repositories"> <img height="180" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luft-phon&theme=material-palenight&layout=compact&langs_count=5"></a>
@@ -70,7 +70,7 @@ class ThanhPhong
 ---
 ---
 ---
-</details>
+</details> -->
 
 <br>
 
